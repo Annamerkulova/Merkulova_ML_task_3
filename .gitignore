@@ -1,0 +1,10 @@
+.venv/
+.venv-1/
+
+Lib/
+Scripts/
+pyvenv.cfg
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
